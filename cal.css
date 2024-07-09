@@ -1,0 +1,29 @@
+body{
+    background-image: url(darth-vader-green-matrix-chaob3sqz448q0ug.jpg);
+    background-size: cover;
+}
+h2{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+table{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+ }
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+div{
+        background-color:rgb(15, 185, 83);
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        
+}
